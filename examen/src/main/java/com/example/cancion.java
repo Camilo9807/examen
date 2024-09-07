@@ -16,7 +16,7 @@ public class cancion {
         this.duracion = 0;
         this.genero = "Desconocido";
         this.album = "Desconocido";
-    }
+    }     
     
     // Constructor con parámetros
     public cancion(String titulo, String artista, int duracion) {
